@@ -1,0 +1,3 @@
+outfitter "Common Outfits"
+	"Sealed Cargo Hold"
+	"Bunk Removal"
